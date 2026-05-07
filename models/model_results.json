@@ -1,0 +1,1 @@
+{"Random Forest": {"Accuracy": 0.9955, "F1-Score": 0.9955}, "Extra Trees": {"Accuracy": 0.9955, "F1-Score": 0.9955}, "XGBoost": {"Accuracy": 0.9932, "F1-Score": 0.9931}}

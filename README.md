@@ -1,11 +1,11 @@
-# 🌾 AgriAI: Smart Crop Recommendation System
+# 🌾 Smart Crop Recommendation System
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-AgriAI is a machine learning-powered web application that helps farmers and agricultural planners make data-driven decisions. By analyzing soil nutrients (Nitrogen, Phosphorus, Potassium) and environmental factors (Temperature, Humidity, pH, Rainfall), it recommends the most optimal crop to maximize yield.
+This is a machine learning-powered web application that helps farmers and agricultural planners make data-driven decisions. By analyzing soil nutrients (Nitrogen, Phosphorus, Potassium) and environmental factors (Temperature, Humidity, pH, Rainfall), it recommends the most optimal crop to maximize yield.
 
 ## ✨ Features
 

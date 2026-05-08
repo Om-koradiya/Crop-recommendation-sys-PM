@@ -52,10 +52,3 @@ The `train.py` script covers the entire pipeline:
 - **Model Evaluation:** Compares `Random Forest`, `Extra Trees`, and `XGBoost`.
 - **Artifacts Generation:** Automatically saves the best model (`best_model.pkl`), scalers (`scaler.pkl`, `label_encoder.pkl`), and metrics (`feature_importance.json`, `model_results.json`) inside the `models/` directory for the Streamlit app to consume.
 
-## 🚀 Deployment
-
-This project is fully ready for deployment on **Streamlit Community Cloud**:
-1. Push this repository to GitHub.
-2. Log in to [share.streamlit.io](https://share.streamlit.io).
-3. Create a new app, select this repository, and set the main file path to `app.py`.
-4. Deploy!
